@@ -1,3 +1,4 @@
+this is a copy of [sinedied/svelte-web-components-template](https://github.com/sinedied/svelte-web-components-template)
 # 🌐 svelte-web-components-template
 
 > A base template for building a shareable web components library using [Vite](https://vitejs.dev), [Svelte](https://svelte.dev) and [TypeScript](https://www.typescriptlang.org).
